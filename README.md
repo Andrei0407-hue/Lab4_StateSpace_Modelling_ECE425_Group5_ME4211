@@ -12,6 +12,8 @@ SIMULINK FOR PROBLEM 1
 SIMULINK FOR PROBLEM 2
 ![image](https://github.com/user-attachments/assets/15a06507-70b3-4221-ba80-1f6feb9b95bb)
 
+SOLUTION FOR PROBLEM 2
+![image](https://github.com/user-attachments/assets/7e44acc2-89a4-43b5-8f6d-14d6a31d448f)
 
 
 SOLUTION FOR PROBLEM 3
