@@ -2,7 +2,7 @@
  
  Problem 1
 
- Code
+Code
 ![LAB 4 PROB 1 SOL 1](https://github.com/user-attachments/assets/f00b687a-1f69-4684-9693-c18531156ed0)
 ![LAB 4 PROB 1 SOL 2](https://github.com/user-attachments/assets/73eecd9c-548a-4d06-8e34-f025eb6b9ccc)
 
