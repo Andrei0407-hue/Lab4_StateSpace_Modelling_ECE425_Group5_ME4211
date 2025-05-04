@@ -9,10 +9,12 @@ Code
 SIMULINK FOR PROBLEM 1
 ![LAB 4 PROB 1 SIMULINK](https://github.com/user-attachments/assets/861b897f-3668-42cd-bf76-a4d84f5d9445)
 
-
-
-
+SIMULINK FOR PROBLEM 2
+![image](https://github.com/user-attachments/assets/15a06507-70b3-4221-ba80-1f6feb9b95bb)
 
 SOLUTION FOR PROBLEM 3
 ![494818649_2602523200097031_6097092091222336196_n](https://github.com/user-attachments/assets/67748570-a5c1-4721-b774-2f088f096029)
+
+SIMULINK FOR PROBLEM 3
+![image](https://github.com/user-attachments/assets/309aa3a0-b1c4-42b7-a065-fe6939e733f4)
 
